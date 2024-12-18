@@ -2129,6 +2129,11 @@ PrefabInstance:
       objectReference: {fileID: 1014560857}
     - target: {fileID: 6767318072236967476, guid: b2278ebf41b030a4293ef9ce3b55c864,
         type: 3}
+      propertyPath: miniMapType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6767318072236967476, guid: b2278ebf41b030a4293ef9ce3b55c864,
+        type: 3}
       propertyPath: baseMapDefine
       value: 
       objectReference: {fileID: 11400000, guid: c0527882b2e2ac94c89f9ced5b306a23,
@@ -7442,7 +7447,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 279
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
