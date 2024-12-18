@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff1bd6f966abf1344b997d6ddb7305e3, type: 3}
+  m_Name: DemoScene Coordinate Reference_Define
+  m_EditorClassIdentifier: 
+  basePoint: {x: -22.187, y: 0, z: -31.277}
+  upPoint: {x: -22.187, y: 0, z: 30.151}
+  rightPoint: {x: -11.73, y: 0, z: -31.277}
+  basePoint_ui: {x: -305.7, y: -433.7, z: 0}
+  upPoint_ui: {x: -305.7, y: 415.72, z: 0}
